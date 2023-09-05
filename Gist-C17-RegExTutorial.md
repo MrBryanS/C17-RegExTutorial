@@ -1,4 +1,4 @@
-# An expoloration of Regular Expressions
+# An exploration of Regular Expressions
 
 In order to better understand Regular Expressions, I am researching and creating an outline of the various components of Regular Expressions.
 
